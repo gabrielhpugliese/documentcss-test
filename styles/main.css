@@ -1,0 +1,12 @@
+/*
+ * @stylesheet main.css MAIN
+ * @parent styles
+ *
+ * @description
+ * Isso eh um teste
+ */
+.teste {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
